@@ -1,0 +1,15 @@
+.gradle/
+local.properties
+.local-toolchain.mk
+.idea/
+*.iml
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.android-user/
+.android-sdk-home/
+.tmp/
+*.apk
+models/
